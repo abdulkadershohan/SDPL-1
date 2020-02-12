@@ -1,7 +1,7 @@
 # SDPL-1
 C++
 # University-Management-System in C++
-Simple project in c#
+Simple project in C++
 
 
 Md.Abdul Kader
