@@ -1,0 +1,4 @@
+CSE 103 Discrete_Mathematics 3 38-6 83
+ECO 101 Principles_of_Economics 2 38-6 77
+CSE 122 Object_Oriented_Programming_Language_Lab 1.5 38-6 69
+MAT 121 Linear_Algebras_and_Differential_Equations 3 38-6 68
